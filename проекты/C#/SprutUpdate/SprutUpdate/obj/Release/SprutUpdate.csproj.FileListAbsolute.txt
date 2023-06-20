@@ -1,0 +1,48 @@
+Z:\C#\New project\SprutUpdate\SprutUpdate\bin\Release\SprutUpdate.exe.config
+Z:\C#\New project\SprutUpdate\SprutUpdate\bin\Release\SprutUpdate.exe
+Z:\C#\New project\SprutUpdate\SprutUpdate\bin\Release\SprutUpdate.pdb
+Z:\C#\New project\SprutUpdate\SprutUpdate\obj\Release\SprutUpdate.mainForm.resources
+Z:\C#\New project\SprutUpdate\SprutUpdate\obj\Release\SprutUpdate.Properties.Resources.resources
+Z:\C#\New project\SprutUpdate\SprutUpdate\obj\Release\SprutUpdate.csproj.GenerateResource.Cache
+Z:\C#\New project\SprutUpdate\SprutUpdate\obj\Release\SprutUpdate.exe
+Z:\C#\New project\SprutUpdate\SprutUpdate\obj\Release\SprutUpdate.pdb
+Z:\C#\New project\SprutUpdate\SprutUpdate\obj\Release\SprutUpdate.csprojResolveAssemblyReference.cache
+Z:\C#\New project\SprutUpdate\SprutUpdate\obj\Release\SprutUpdate.SQLCommandForm.resources
+Z:\C#\New project\SprutUpdate\SprutUpdate\bin\Release\SprutUpdate.exe.manifest
+Z:\C#\New project\SprutUpdate\SprutUpdate\bin\Release\SprutUpdate.application
+Z:\C#\New project\SprutUpdate\SprutUpdate\obj\Release\SprutUpdate.exe.manifest
+Z:\C#\New project\SprutUpdate\SprutUpdate\obj\Release\SprutUpdate.application
+Z:\Новое\03 - Coding\SprutUpdate\SprutUpdate\bin\Release\SprutUpdate.exe.config
+Z:\Новое\03 - Coding\SprutUpdate\SprutUpdate\obj\Release\SprutUpdate.exe
+Z:\Новое\03 - Coding\SprutUpdate\SprutUpdate\obj\Release\SprutUpdate.pdb
+Z:\Новое\03 - Coding\SprutUpdate\SprutUpdate\bin\Release\SprutUpdate.exe.manifest
+Z:\Новое\03 - Coding\SprutUpdate\SprutUpdate\bin\Release\SprutUpdate.application
+Z:\Новое\03 - Coding\SprutUpdate\SprutUpdate\bin\Release\SprutUpdate.exe
+Z:\Новое\03 - Coding\SprutUpdate\SprutUpdate\bin\Release\SprutUpdate.pdb
+Z:\Новое\03 - Coding\SprutUpdate\SprutUpdate\obj\Release\SprutUpdate.csprojResolveAssemblyReference.cache
+Z:\Новое\03 - Coding\SprutUpdate\SprutUpdate\obj\Release\SprutUpdate.mainForm.resources
+Z:\Новое\03 - Coding\SprutUpdate\SprutUpdate\obj\Release\SprutUpdate.Properties.Resources.resources
+Z:\Новое\03 - Coding\SprutUpdate\SprutUpdate\obj\Release\SprutUpdate.SQLCommandForm.resources
+Z:\Новое\03 - Coding\SprutUpdate\SprutUpdate\obj\Release\SprutUpdate.csproj.GenerateResource.Cache
+Z:\Новое\03 - Coding\SprutUpdate\SprutUpdate\obj\Release\SprutUpdate.exe.manifest
+Z:\Новое\03 - Coding\SprutUpdate\SprutUpdate\obj\Release\SprutUpdate.application
+D:\C#\SprutUpdate\SprutUpdate\bin\Release\SprutUpdate.exe.config
+D:\C#\SprutUpdate\SprutUpdate\obj\Release\SprutUpdate.exe
+D:\C#\SprutUpdate\SprutUpdate\obj\Release\SprutUpdate.pdb
+D:\C#\SprutUpdate\SprutUpdate\bin\Release\SprutUpdate.exe.manifest
+D:\C#\SprutUpdate\SprutUpdate\bin\Release\SprutUpdate.application
+D:\C#\SprutUpdate\SprutUpdate\bin\Release\SprutUpdate.exe
+D:\C#\SprutUpdate\SprutUpdate\bin\Release\SprutUpdate.pdb
+D:\C#\SprutUpdate\SprutUpdate\obj\Release\SprutUpdate.csprojResolveAssemblyReference.cache
+D:\C#\SprutUpdate\SprutUpdate\obj\Release\SprutUpdate.mainForm.resources
+D:\C#\SprutUpdate\SprutUpdate\obj\Release\SprutUpdate.Properties.Resources.resources
+D:\C#\SprutUpdate\SprutUpdate\obj\Release\SprutUpdate.SQLCommandForm.resources
+D:\C#\SprutUpdate\SprutUpdate\obj\Release\SprutUpdate.csproj.GenerateResource.Cache
+D:\C#\SprutUpdate\SprutUpdate\obj\Release\SprutUpdate.exe.manifest
+D:\C#\SprutUpdate\SprutUpdate\obj\Release\SprutUpdate.application
+D:\C#\SprutUpdate\SprutUpdate\bin\Release\lcpi.data.oledb.ntest.net4_5.dll
+D:\C#\SprutUpdate\SprutUpdate\bin\Release\lcpi.vs.data.providers.oledb.v1.net4_5.dll
+D:\C#\SprutUpdate\SprutUpdate\bin\Release\nunit.framework.dll
+D:\C#\SprutUpdate\SprutUpdate\bin\Release\lcpi.vs.data.providers.oledb.v1.net4_5.pdb
+D:\C#\SprutUpdate\SprutUpdate\bin\Release\nunit.framework.xml
+D:\C#\SprutUpdate\SprutUpdate\bin\Release\ru\lcpi.vs.data.providers.oledb.v1.net4_5.resources.dll

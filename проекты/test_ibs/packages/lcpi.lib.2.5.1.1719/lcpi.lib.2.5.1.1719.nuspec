@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>lcpi.lib</id>
+    <version>2.5.1.1719</version>
+    <title>LCPI Instrumental Library</title>
+    <authors>LCPI</authors>
+    <owners>LCPI</owners>
+    <projectUrl>http://www.ibprovider.com/</projectUrl>
+    <iconUrl>http://www.ibprovider.com/products/lcpi.oledb.net/resources/images/nuget/set01/logo-64x64.png</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>This package contains common structures for LCPI software.
+
+Supported .NET platforms: FW 3.5/4.0/4.5/4.5.1/4.6/4.6.2/4.7.2/4.8, Standard 2.0.</description>
+    <summary>This package contains common structures for LCPI software.</summary>
+    <releaseNotes>* Assemblies for .NET FW4.8 are now compiled in VS2017
+  - was: VS2019</releaseNotes>
+    <copyright>Copyright LCPI 2000-2019</copyright>
+  </metadata>
+</package>

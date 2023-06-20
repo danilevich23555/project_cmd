@@ -1,0 +1,447 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{057D5E2A-D4B4-42A5-BF7D-0CFC259B7A14}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Statistics</RootNamespace>
+    <AssemblyName>Statistics</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <PublishUrl>опубликовать\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>Statistics_2.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AddDaysForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddDaysForm.Designer.cs">
+      <DependentUpon>AddDaysForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CheckForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CheckForm.Designer.cs">
+      <DependentUpon>CheckForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ConclutionEditForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ConclutionEditForm.Designer.cs">
+      <DependentUpon>ConclutionEditForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ConclutionsListForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ConclutionsListForm.Designer.cs">
+      <DependentUpon>ConclutionsListForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ConnectionForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ConnectionForm.Designer.cs">
+      <DependentUpon>ConnectionForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DataForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DataForm.Designer.cs">
+      <DependentUpon>DataForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DateForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DateForm.Designer.cs">
+      <DependentUpon>DateForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DepartmentEditForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DepartmentEditForm.Designer.cs">
+      <DependentUpon>DepartmentEditForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DepartmentsListForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DepartmentsListForm.Designer.cs">
+      <DependentUpon>DepartmentsListForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DirectionEditForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DirectionEditForm.Designer.cs">
+      <DependentUpon>DirectionEditForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DirectionsListForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DirectionsListForm.Designer.cs">
+      <DependentUpon>DirectionsListForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EmployeeEditForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EmployeeEditForm.Designer.cs">
+      <DependentUpon>EmployeeEditForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EmployeesListForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EmployeesListForm.Designer.cs">
+      <DependentUpon>EmployeesListForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="IncomingDocumentEditForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="IncomingDocumentEditForm.Designer.cs">
+      <DependentUpon>IncomingDocumentEditForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="IncomingDocumentsListForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="IncomingDocumentsListForm.Designer.cs">
+      <DependentUpon>IncomingDocumentsListForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="InformationEditForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="InformationEditForm.Designer.cs">
+      <DependentUpon>InformationEditForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="InformationsListForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="InformationsListForm.Designer.cs">
+      <DependentUpon>InformationsListForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="InformOnDocForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="InformOnDocForm.Designer.cs">
+      <DependentUpon>InformOnDocForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LetterEditForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LetterEditForm.Designer.cs">
+      <DependentUpon>LetterEditForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LettersListForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LettersListForm.Designer.cs">
+      <DependentUpon>LettersListForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainForm.Designer.cs">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MaterialEditForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MaterialEditForm.designer.cs">
+      <DependentUpon>MaterialEditForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MaterialsListForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MaterialsListForm.Designer.cs">
+      <DependentUpon>MaterialsListForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MissionEditForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MissionEditForm.Designer.cs">
+      <DependentUpon>MissionEditForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MissionsListForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MissionsListForm.Designer.cs">
+      <DependentUpon>MissionsListForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MissionTargetEditForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MissionTargetEditForm.Designer.cs">
+      <DependentUpon>MissionTargetEditForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MissionTargetsListForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MissionTargetsListForm.Designer.cs">
+      <DependentUpon>MissionTargetsListForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="OperativeEditForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="OperativeEditForm.Designer.cs">
+      <DependentUpon>OperativeEditForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="OperativesListForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="OperativesListForm.Designer.cs">
+      <DependentUpon>OperativesListForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PhoneDataEditForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PhoneDataEditForm.Designer.cs">
+      <DependentUpon>PhoneDataEditForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PhoneDatasListForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PhoneDatasListForm.Designer.cs">
+      <DependentUpon>PhoneDatasListForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SettingsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SettingsForm.Designer.cs">
+      <DependentUpon>SettingsForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="StatForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="StatForm.Designer.cs">
+      <DependentUpon>StatForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UKRFEditForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UKRFEditForm.Designer.cs">
+      <DependentUpon>UKRFEditForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UKRFListForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UKRFListForm.Designer.cs">
+      <DependentUpon>UKRFListForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WeekDataFromMissionEditForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WeekDataFromMissionEditForm.Designer.cs">
+      <DependentUpon>WeekDataFromMissionEditForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WeekDataFromMissionListForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WeekDataFromMissionListForm.Designer.cs">
+      <DependentUpon>WeekDataFromMissionListForm.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="AddDaysForm.resx">
+      <DependentUpon>AddDaysForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CheckForm.resx">
+      <DependentUpon>CheckForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ConclutionEditForm.resx">
+      <DependentUpon>ConclutionEditForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ConclutionsListForm.resx">
+      <DependentUpon>ConclutionsListForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ConnectionForm.resx">
+      <DependentUpon>ConnectionForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DataForm.resx">
+      <DependentUpon>DataForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DateForm.resx">
+      <DependentUpon>DateForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DepartmentEditForm.resx">
+      <DependentUpon>DepartmentEditForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DepartmentsListForm.resx">
+      <DependentUpon>DepartmentsListForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DirectionEditForm.resx">
+      <DependentUpon>DirectionEditForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DirectionsListForm.resx">
+      <DependentUpon>DirectionsListForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EmployeeEditForm.resx">
+      <DependentUpon>EmployeeEditForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EmployeesListForm.resx">
+      <DependentUpon>EmployeesListForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IncomingDocumentEditForm.resx">
+      <DependentUpon>IncomingDocumentEditForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IncomingDocumentsListForm.resx">
+      <DependentUpon>IncomingDocumentsListForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="InformationEditForm.resx">
+      <DependentUpon>InformationEditForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="InformationsListForm.resx">
+      <DependentUpon>InformationsListForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="InformOnDocForm.resx">
+      <DependentUpon>InformOnDocForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LetterEditForm.resx">
+      <DependentUpon>LetterEditForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LettersListForm.resx">
+      <DependentUpon>LettersListForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainForm.resx">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MaterialEditForm.resx">
+      <DependentUpon>MaterialEditForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MaterialsListForm.resx">
+      <DependentUpon>MaterialsListForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MissionEditForm.resx">
+      <DependentUpon>MissionEditForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MissionsListForm.resx">
+      <DependentUpon>MissionsListForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MissionTargetEditForm.resx">
+      <DependentUpon>MissionTargetEditForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MissionTargetsListForm.resx">
+      <DependentUpon>MissionTargetsListForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="OperativeEditForm.resx">
+      <DependentUpon>OperativeEditForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="OperativesListForm.resx">
+      <DependentUpon>OperativesListForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PhoneDataEditForm.resx">
+      <DependentUpon>PhoneDataEditForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PhoneDatasListForm.resx">
+      <DependentUpon>PhoneDatasListForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="SettingsForm.resx">
+      <DependentUpon>SettingsForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="StatForm.resx">
+      <DependentUpon>StatForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UKRFEditForm.resx">
+      <DependentUpon>UKRFEditForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UKRFListForm.resx">
+      <DependentUpon>UKRFListForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WeekDataFromMissionEditForm.resx">
+      <DependentUpon>WeekDataFromMissionEditForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WeekDataFromMissionListForm.resx">
+      <DependentUpon>WeekDataFromMissionListForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Symbol-Delete.ico" />
+    <None Include="Edit.ico" />
+    <None Include="reportexcel.png" />
+    <Content Include="Statistics.ico" />
+    <Content Include="Statistics_2.ico" />
+    <None Include="Symbol-Add.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>Клиентский профиль .NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

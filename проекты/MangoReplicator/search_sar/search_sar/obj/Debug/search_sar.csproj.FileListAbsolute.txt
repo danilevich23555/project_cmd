@@ -1,0 +1,116 @@
+C:\Work\sar\search_sar\search_sar\bin\Debug\Заявки.mdb
+C:\Work\sar\search_sar\search_sar\bin\Debug\search_sar.exe.config
+C:\Work\sar\search_sar\search_sar\bin\Debug\search_sar.exe
+C:\Work\sar\search_sar\search_sar\bin\Debug\search_sar.pdb
+C:\Work\sar\search_sar\search_sar\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Work\sar\search_sar\search_sar\bin\Debug\ExcelDataReader.dll
+C:\Work\sar\search_sar\search_sar\bin\Debug\ExcelDataReader.xml
+C:\Work\sar\search_sar\search_sar\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Work\sar\search_sar\search_sar\obj\Debug\search_sar.csprojResolveAssemblyReference.cache
+C:\Work\sar\search_sar\search_sar\obj\Debug\search_sar.Form1.resources
+C:\Work\sar\search_sar\search_sar\obj\Debug\search_sar.Properties.Resources.resources
+C:\Work\sar\search_sar\search_sar\obj\Debug\search_sar.csproj.GenerateResource.Cache
+C:\Work\sar\search_sar\search_sar\obj\Debug\search_sar.exe
+C:\Work\sar\search_sar\search_sar\obj\Debug\search_sar.pdb
+C:\Users\DDI.CANTATA\Desktop\sar\search_sar\search_sar\bin\Debug\search_sar.exe.config
+C:\Users\DDI.CANTATA\Desktop\sar\search_sar\search_sar\obj\Debug\search_sar.exe
+C:\Users\DDI.CANTATA\Desktop\sar\search_sar\search_sar\obj\Debug\search_sar.pdb
+C:\Users\DDI.CANTATA\Desktop\sar\search_sar\search_sar\bin\Debug\search_sar.exe
+C:\Users\DDI.CANTATA\Desktop\sar\search_sar\search_sar\bin\Debug\search_sar.pdb
+C:\Users\DDI.CANTATA\Desktop\sar\search_sar\search_sar\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\DDI.CANTATA\Desktop\sar\search_sar\search_sar\bin\Debug\ExcelDataReader.dll
+C:\Users\DDI.CANTATA\Desktop\sar\search_sar\search_sar\bin\Debug\ExcelDataReader.xml
+C:\Users\DDI.CANTATA\Desktop\sar\search_sar\search_sar\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\DDI.CANTATA\Desktop\sar\search_sar\search_sar\obj\Debug\search_sar.csprojResolveAssemblyReference.cache
+C:\Users\DDI.CANTATA\Desktop\sar\search_sar\search_sar\obj\Debug\search_sar.Form1.resources
+C:\Users\DDI.CANTATA\Desktop\sar\search_sar\search_sar\obj\Debug\search_sar.Properties.Resources.resources
+C:\Users\DDI.CANTATA\Desktop\sar\search_sar\search_sar\obj\Debug\search_sar.csproj.GenerateResource.Cache
+C:\Users\Dan\Desktop\sar\search_sar\search_sar\bin\Debug\search_sar.exe.config
+C:\Users\Dan\Desktop\sar\search_sar\search_sar\obj\Debug\search_sar.exe
+C:\Users\Dan\Desktop\sar\search_sar\search_sar\obj\Debug\search_sar.pdb
+C:\Users\Dan\Desktop\sar\search_sar\search_sar\bin\Debug\search_sar.exe
+C:\Users\Dan\Desktop\sar\search_sar\search_sar\bin\Debug\search_sar.pdb
+C:\Users\Dan\Desktop\sar\search_sar\search_sar\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\Dan\Desktop\sar\search_sar\search_sar\bin\Debug\ExcelDataReader.dll
+C:\Users\Dan\Desktop\sar\search_sar\search_sar\bin\Debug\ExcelDataReader.xml
+C:\Users\Dan\Desktop\sar\search_sar\search_sar\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\Dan\Desktop\sar\search_sar\search_sar\obj\Debug\search_sar.csprojResolveAssemblyReference.cache
+C:\Users\Dan\Desktop\sar\search_sar\search_sar\obj\Debug\search_sar.Form1.resources
+C:\Users\Dan\Desktop\sar\search_sar\search_sar\obj\Debug\search_sar.Properties.Resources.resources
+C:\Users\Dan\Desktop\sar\search_sar\search_sar\obj\Debug\search_sar.csproj.GenerateResource.Cache
+C:\Windows\Locker\sar\search_sar\search_sar\bin\Debug\search_sar.exe.config
+C:\Windows\Locker\sar\search_sar\search_sar\obj\Debug\search_sar.exe
+C:\Windows\Locker\sar\search_sar\search_sar\obj\Debug\search_sar.pdb
+C:\Users\admin\Desktop\sar\search_sar\search_sar\bin\Debug\search_sar.exe.config
+C:\Users\admin\Desktop\sar\search_sar\search_sar\obj\Debug\search_sar.exe
+C:\Users\admin\Desktop\sar\search_sar\search_sar\obj\Debug\search_sar.pdb
+C:\Users\admin\Desktop\sar\search_sar\search_sar\bin\Debug\search_sar.exe
+C:\Users\admin\Desktop\sar\search_sar\search_sar\bin\Debug\search_sar.pdb
+C:\Users\admin\Desktop\sar\search_sar\search_sar\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\admin\Desktop\sar\search_sar\search_sar\bin\Debug\ExcelDataReader.dll
+C:\Users\admin\Desktop\sar\search_sar\search_sar\bin\Debug\ExcelDataReader.xml
+C:\Users\admin\Desktop\sar\search_sar\search_sar\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\admin\Desktop\sar\search_sar\search_sar\obj\Debug\search_sar.Properties.Resources.resources
+C:\Users\admin\Desktop\sar\search_sar\search_sar\obj\Debug\search_sar.csproj.GenerateResource.Cache
+C:\Users\admin\Desktop\sar\search_sar\search_sar\obj\Debug\search_sar.serch_sar.resources
+C:\Users\admin\Desktop\sar\search_sar\search_sar\obj\Debug\search_sar.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\sar\search_sar\search_sar\obj\Debug\search_sar.Form2.resources
+S:\Сирия\sar\search_sar\search_sar\bin\Debug\search_sar.exe.config
+S:\Сирия\sar\search_sar\search_sar\obj\Debug\search_sar.exe
+S:\Сирия\sar\search_sar\search_sar\obj\Debug\search_sar.pdb
+T:\Сирия\sar\search_sar\search_sar\bin\Debug\search_sar.exe.config
+T:\Сирия\sar\search_sar\search_sar\obj\Debug\search_sar.exe
+T:\Сирия\sar\search_sar\search_sar\obj\Debug\search_sar.pdb
+T:\Сирия\sar\search_sar\search_sar\bin\Debug\search_sar.exe
+T:\Сирия\sar\search_sar\search_sar\bin\Debug\search_sar.pdb
+T:\Сирия\sar\search_sar\search_sar\bin\Debug\ExcelDataReader.DataSet.dll
+T:\Сирия\sar\search_sar\search_sar\bin\Debug\ExcelDataReader.dll
+T:\Сирия\sar\search_sar\search_sar\bin\Debug\ExcelDataReader.xml
+T:\Сирия\sar\search_sar\search_sar\bin\Debug\ExcelDataReader.DataSet.xml
+T:\Сирия\sar\search_sar\search_sar\obj\Debug\search_sar.csprojResolveAssemblyReference.cache
+T:\Сирия\sar\search_sar\search_sar\obj\Debug\search_sar.serch_sar.resources
+T:\Сирия\sar\search_sar\search_sar\obj\Debug\search_sar.Form2.resources
+T:\Сирия\sar\search_sar\search_sar\obj\Debug\search_sar.Properties.Resources.resources
+T:\Сирия\sar\search_sar\search_sar\obj\Debug\search_sar.csproj.GenerateResource.Cache
+C:\Users\DDI.CANTATA\Desktop\search_sar\search_sar\bin\Debug\search_sar.exe.config
+C:\Users\DDI.CANTATA\Desktop\search_sar\search_sar\obj\Debug\search_sar.exe
+C:\Users\DDI.CANTATA\Desktop\search_sar\search_sar\obj\Debug\search_sar.pdb
+C:\Users\DDI.CANTATA\Desktop\search_sar\search_sar\bin\Debug\search_sar.exe
+C:\Users\DDI.CANTATA\Desktop\search_sar\search_sar\bin\Debug\search_sar.pdb
+C:\Users\DDI.CANTATA\Desktop\search_sar\search_sar\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\DDI.CANTATA\Desktop\search_sar\search_sar\bin\Debug\ExcelDataReader.dll
+C:\Users\DDI.CANTATA\Desktop\search_sar\search_sar\bin\Debug\ExcelDataReader.xml
+C:\Users\DDI.CANTATA\Desktop\search_sar\search_sar\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\DDI.CANTATA\Desktop\search_sar\search_sar\obj\Debug\search_sar.csprojResolveAssemblyReference.cache
+C:\Users\DDI.CANTATA\Desktop\search_sar\search_sar\obj\Debug\search_sar.serch_sar.resources
+C:\Users\DDI.CANTATA\Desktop\search_sar\search_sar\obj\Debug\search_sar.Form2.resources
+C:\Users\DDI.CANTATA\Desktop\search_sar\search_sar\obj\Debug\search_sar.Properties.Resources.resources
+C:\Users\DDI.CANTATA\Desktop\search_sar\search_sar\obj\Debug\search_sar.csproj.GenerateResource.Cache
+D:\проекты\mango_intebase\search_sar\search_sar\bin\Debug\MANGO_Replicator.exe
+D:\проекты\mango_intebase\search_sar\search_sar\bin\Debug\MANGO_Replicator.exe.config
+D:\проекты\mango_intebase\search_sar\search_sar\bin\Debug\ExcelDataReader.DataSet.dll
+D:\проекты\mango_intebase\search_sar\search_sar\bin\Debug\ExcelDataReader.dll
+D:\проекты\mango_intebase\search_sar\search_sar\bin\Debug\ExcelDataReader.xml
+D:\проекты\mango_intebase\search_sar\search_sar\bin\Debug\ExcelDataReader.DataSet.xml
+D:\проекты\mango_intebase\search_sar\search_sar\obj\Debug\search_sar.serch_sar.resources
+D:\проекты\mango_intebase\search_sar\search_sar\obj\Debug\search_sar.Form2.resources
+D:\проекты\mango_intebase\search_sar\search_sar\obj\Debug\search_sar.Properties.Resources.resources
+D:\проекты\mango_intebase\search_sar\search_sar\obj\Debug\search_sar.csproj.GenerateResource.Cache
+D:\проекты\mango_intebase\search_sar\search_sar\obj\Debug\MANGO_Replicator.exe
+D:\проекты\mango_intebase\search_sar\search_sar\obj\Debug\MANGO_Replicator.pdb
+D:\проекты\mango_intebase\search_sar\search_sar\bin\Debug\MANGO_Replicator.pdb
+D:\проекты\mango_intebase\search_sar\search_sar\obj\Debug\search_sar.csprojResolveAssemblyReference.cache
+M:\Tolya\Разные задачи\mango\Репликатор\search_sar\search_sar\bin\Debug\MANGO_Replicator.exe.config
+M:\Tolya\Разные задачи\mango\Репликатор\search_sar\search_sar\obj\Debug\MANGO_Replicator.exe
+M:\Tolya\Разные задачи\mango\Репликатор\search_sar\search_sar\obj\Debug\MANGO_Replicator.pdb
+M:\Tolya\Разные задачи\mango\Репликатор\search_sar\search_sar\bin\Debug\MANGO_Replicator.exe
+M:\Tolya\Разные задачи\mango\Репликатор\search_sar\search_sar\bin\Debug\MANGO_Replicator.pdb
+M:\Tolya\Разные задачи\mango\Репликатор\search_sar\search_sar\bin\Debug\ExcelDataReader.DataSet.dll
+M:\Tolya\Разные задачи\mango\Репликатор\search_sar\search_sar\bin\Debug\ExcelDataReader.dll
+M:\Tolya\Разные задачи\mango\Репликатор\search_sar\search_sar\bin\Debug\ExcelDataReader.xml
+M:\Tolya\Разные задачи\mango\Репликатор\search_sar\search_sar\bin\Debug\ExcelDataReader.DataSet.xml
+M:\Tolya\Разные задачи\mango\Репликатор\search_sar\search_sar\obj\Debug\search_sar.csprojResolveAssemblyReference.cache
+M:\Tolya\Разные задачи\mango\Репликатор\search_sar\search_sar\obj\Debug\search_sar.serch_sar.resources
+M:\Tolya\Разные задачи\mango\Репликатор\search_sar\search_sar\obj\Debug\search_sar.Form2.resources
+M:\Tolya\Разные задачи\mango\Репликатор\search_sar\search_sar\obj\Debug\search_sar.Properties.Resources.resources
+M:\Tolya\Разные задачи\mango\Репликатор\search_sar\search_sar\obj\Debug\search_sar.csproj.GenerateResource.Cache

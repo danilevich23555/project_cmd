@@ -1,0 +1,9 @@
+Z:\C#\New project\SprutUpdate\SprutUpdate\bin\Debug\SprutUpdate.exe
+Z:\C#\New project\SprutUpdate\SprutUpdate\bin\Debug\SprutUpdate.pdb
+Z:\C#\New project\SprutUpdate\SprutUpdate\obj\Debug\SprutUpdate.csprojResolveAssemblyReference.cache
+Z:\C#\New project\SprutUpdate\SprutUpdate\obj\Debug\SprutUpdate.mainForm.resources
+Z:\C#\New project\SprutUpdate\SprutUpdate\obj\Debug\SprutUpdate.Properties.Resources.resources
+Z:\C#\New project\SprutUpdate\SprutUpdate\obj\Debug\SprutUpdate.csproj.GenerateResource.Cache
+Z:\C#\New project\SprutUpdate\SprutUpdate\obj\Debug\SprutUpdate.exe
+Z:\C#\New project\SprutUpdate\SprutUpdate\obj\Debug\SprutUpdate.pdb
+Z:\C#\New project\SprutUpdate\SprutUpdate\bin\Debug\SprutUpdate.exe.config

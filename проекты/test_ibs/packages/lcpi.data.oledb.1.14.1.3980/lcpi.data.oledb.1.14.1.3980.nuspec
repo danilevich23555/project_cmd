@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>lcpi.data.oledb</id>
+    <version>1.14.1.3980</version>
+    <title>LCPI ADO.NET Data Provider For OLE DB</title>
+    <authors>LCPI</authors>
+    <owners>LCPI</owners>
+    <projectUrl>http://www.ibprovider.com/</projectUrl>
+    <iconUrl>https://api.nuget.org/v3-flatcontainer/lcpi.data.oledb/1.14.1.3980/icon</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>This package contains ADO.NET data provider, which fully implements the System.Data.OleDb features and adds many own, unique features.
+
+Primary targets of this ADO.NET provider: Firebird/InterBase DBMS and LCPI.IBProvider.5 [Native OLE DB Provider For FB/IB].
+
+Supported .NET platforms: FW 3.5/4.0/4.5/4.5.1/4.6/4.6.2/4.7.2/4.8, Standard 2.0.
+
+Please visit www.ibprovider.com for more information and complete installation kit with ddex providers, debug assemblies, nunit tests and samples of usage.</description>
+    <summary>This package contains ADO.NET data provider, which fully implements the System.Data.OleDb features and adds many own, unique features. Primary targets of this ADO.NET provider: Firebird/InterBase DBMS and LCPI.IBProvider.5.</summary>
+    <releaseNotes>* Assemblies for .NET FW4.8 are now compiled in VS2017
+  - was: VS2019</releaseNotes>
+    <copyright>Copyright LCPI 2011-2019</copyright>
+    <tags>firebird firebirdsql interbase adonet ado.net ibprovider oledb oledb.net</tags>
+    <dependencies>
+      <dependency id="lcpi.lib" version="[2.5.1.1719]" />
+    </dependencies>
+  </metadata>
+</package>

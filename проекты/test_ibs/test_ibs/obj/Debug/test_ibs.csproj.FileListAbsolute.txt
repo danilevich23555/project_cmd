@@ -1,0 +1,18 @@
+C:\Users\poshel na hui\Documents\Visual Studio 2013\Projects\test_ibs\test_ibs\bin\Debug\test_ibs.exe.config
+C:\Users\poshel na hui\Documents\Visual Studio 2013\Projects\test_ibs\test_ibs\bin\Debug\test_ibs.exe
+C:\Users\poshel na hui\Documents\Visual Studio 2013\Projects\test_ibs\test_ibs\bin\Debug\test_ibs.pdb
+C:\Users\poshel na hui\Documents\Visual Studio 2013\Projects\test_ibs\test_ibs\obj\Debug\test_ibs.csprojResolveAssemblyReference.cache
+C:\Users\poshel na hui\Documents\Visual Studio 2013\Projects\test_ibs\test_ibs\obj\Debug\test_ibs.Properties.Resources.resources
+C:\Users\poshel na hui\Documents\Visual Studio 2013\Projects\test_ibs\test_ibs\obj\Debug\test_ibs.csproj.GenerateResource.Cache
+C:\Users\poshel na hui\Documents\Visual Studio 2013\Projects\test_ibs\test_ibs\obj\Debug\test_ibs.exe
+C:\Users\poshel na hui\Documents\Visual Studio 2013\Projects\test_ibs\test_ibs\obj\Debug\test_ibs.pdb
+C:\Users\poshel na hui\Documents\Visual Studio 2013\Projects\test_ibs\test_ibs\obj\Debug\test_ibs.Form1.resources
+F:\test_ibs\test_ibs\bin\Debug\test_ibs.exe.config
+F:\test_ibs\test_ibs\obj\Debug\test_ibs.exe
+F:\test_ibs\test_ibs\obj\Debug\test_ibs.pdb
+F:\test_ibs\test_ibs\bin\Debug\test_ibs.exe
+F:\test_ibs\test_ibs\bin\Debug\test_ibs.pdb
+F:\test_ibs\test_ibs\obj\Debug\test_ibs.csprojResolveAssemblyReference.cache
+F:\test_ibs\test_ibs\obj\Debug\test_ibs.Form1.resources
+F:\test_ibs\test_ibs\obj\Debug\test_ibs.Properties.Resources.resources
+F:\test_ibs\test_ibs\obj\Debug\test_ibs.csproj.GenerateResource.Cache

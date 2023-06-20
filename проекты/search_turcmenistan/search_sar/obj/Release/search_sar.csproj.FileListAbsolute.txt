@@ -1,0 +1,14 @@
+D:\проекты\search_turcmenistan\search_sar\bin\Release\search_sar.exe.config
+D:\проекты\search_turcmenistan\search_sar\bin\Release\search_sar.exe
+D:\проекты\search_turcmenistan\search_sar\bin\Release\search_sar.pdb
+D:\проекты\search_turcmenistan\search_sar\obj\Release\search_sar.csprojResolveAssemblyReference.cache
+D:\проекты\search_turcmenistan\search_sar\obj\Release\search_sar.serch_sar.resources
+D:\проекты\search_turcmenistan\search_sar\obj\Release\search_sar.Form2.resources
+D:\проекты\search_turcmenistan\search_sar\obj\Release\search_sar.Properties.Resources.resources
+D:\проекты\search_turcmenistan\search_sar\obj\Release\search_sar.csproj.GenerateResource.Cache
+D:\проекты\search_turcmenistan\search_sar\obj\Release\search_sar.exe
+D:\проекты\search_turcmenistan\search_sar\obj\Release\search_sar.pdb
+D:\проекты\search_turcmenistan\search_sar\bin\Release\ExcelDataReader.DataSet.dll
+D:\проекты\search_turcmenistan\search_sar\bin\Release\ExcelDataReader.dll
+D:\проекты\search_turcmenistan\search_sar\bin\Release\ExcelDataReader.xml
+D:\проекты\search_turcmenistan\search_sar\bin\Release\ExcelDataReader.DataSet.xml

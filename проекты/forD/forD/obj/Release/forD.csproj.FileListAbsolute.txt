@@ -1,0 +1,10 @@
+Z:\C#\New project\forD\forD\forD\bin\Release\forD.exe.config
+Z:\C#\New project\forD\forD\forD\bin\Release\forD.exe
+Z:\C#\New project\forD\forD\forD\bin\Release\forD.pdb
+Z:\C#\New project\forD\forD\forD\obj\Release\forD.MainForm.resources
+Z:\C#\New project\forD\forD\forD\obj\Release\forD.Properties.Resources.resources
+Z:\C#\New project\forD\forD\forD\obj\Release\forD.csproj.GenerateResource.Cache
+Z:\C#\New project\forD\forD\forD\obj\Release\forD.exe
+Z:\C#\New project\forD\forD\forD\obj\Release\forD.pdb
+Z:\C#\New project\forD\forD\forD\obj\Release\forD.csprojResolveAssemblyReference.cache
+Z:\C#\New project\forD\forD\forD\obj\Release\forD.DeleteForm.resources

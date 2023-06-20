@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<configuration>
+<configSections>
+    <sectionGroup name="userSettings" type="System.Configuration.UserSettingsGroup, System, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" >
+        <section name="SprutUpdate.Properties.Settings" type="System.Configuration.ClientSettingsSection, System, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" allowExeDefinition="MachineToLocalUser" requirePermission="false" />
+    </sectionGroup>
+</configSections>
+<startup><supportedRuntime version="v2.0.50727"/></startup>
+    <userSettings>
+        <SprutUpdate.Properties.Settings>
+            <setting name="OracleServer" serializeAs="String">
+                <value>sprutora</value>
+            </setting>
+            <setting name="OracleSchema" serializeAs="String">
+                <value>scripttest</value>
+            </setting>
+            <setting name="Oracle" serializeAs="String">
+                <value>True</value>
+            </setting>
+            <setting name="Interbase" serializeAs="String">
+                <value>False</value>
+            </setting>
+            <setting name="InterbaseServer" serializeAs="String">
+                <value>localhost</value>
+            </setting>
+            <setting name="InterbasePath" serializeAs="String">
+                <value />
+            </setting>
+            <setting name="lastInckeySetupDown" serializeAs="String">
+                <value>0</value>
+            </setting>
+            <setting name="SourceBase" serializeAs="String">
+                <value>False</value>
+            </setting>
+            <setting name="SourceServer" serializeAs="String">
+                <value>localhost</value>
+            </setting>
+            <setting name="SourcePath" serializeAs="String">
+                <value />
+            </setting>
+            <setting name="BufferDays" serializeAs="String">
+                <value>-1</value>
+            </setting>
+            <setting name="InckeyOn" serializeAs="String">
+                <value>False</value>
+            </setting>
+            <setting name="LastInckeySourceUpdate" serializeAs="String">
+                <value>0</value>
+            </setting>
+            <setting name="SUBD" serializeAs="String">
+                <value>Oracle</value>
+            </setting>
+            <setting name="FreqAutoUpdate" serializeAs="String">
+                <value>1</value>
+            </setting>
+            <setting name="IntervalUpdate" serializeAs="String">
+                <value>1</value>
+            </setting>
+        </SprutUpdate.Properties.Settings>
+    </userSettings>
+</configuration>

@@ -1,0 +1,14 @@
+M:\Tolya\Разные задачи\mango\Репликатор\search_sar\search_sar\bin\Release\MANGO_Replicator.exe.config
+M:\Tolya\Разные задачи\mango\Репликатор\search_sar\search_sar\bin\Release\MANGO_Replicator.exe
+M:\Tolya\Разные задачи\mango\Репликатор\search_sar\search_sar\bin\Release\MANGO_Replicator.pdb
+M:\Tolya\Разные задачи\mango\Репликатор\search_sar\search_sar\bin\Release\ExcelDataReader.DataSet.dll
+M:\Tolya\Разные задачи\mango\Репликатор\search_sar\search_sar\bin\Release\ExcelDataReader.dll
+M:\Tolya\Разные задачи\mango\Репликатор\search_sar\search_sar\bin\Release\ExcelDataReader.xml
+M:\Tolya\Разные задачи\mango\Репликатор\search_sar\search_sar\bin\Release\ExcelDataReader.DataSet.xml
+M:\Tolya\Разные задачи\mango\Репликатор\search_sar\search_sar\obj\Release\search_sar.csprojResolveAssemblyReference.cache
+M:\Tolya\Разные задачи\mango\Репликатор\search_sar\search_sar\obj\Release\search_sar.serch_sar.resources
+M:\Tolya\Разные задачи\mango\Репликатор\search_sar\search_sar\obj\Release\search_sar.Form2.resources
+M:\Tolya\Разные задачи\mango\Репликатор\search_sar\search_sar\obj\Release\search_sar.Properties.Resources.resources
+M:\Tolya\Разные задачи\mango\Репликатор\search_sar\search_sar\obj\Release\search_sar.csproj.GenerateResource.Cache
+M:\Tolya\Разные задачи\mango\Репликатор\search_sar\search_sar\obj\Release\MANGO_Replicator.exe
+M:\Tolya\Разные задачи\mango\Репликатор\search_sar\search_sar\obj\Release\MANGO_Replicator.pdb

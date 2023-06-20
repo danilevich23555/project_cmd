@@ -1,0 +1,9 @@
+Z:\C#\New project\forD\forD\forD\bin\Debug\forD.exe.config
+Z:\C#\New project\forD\forD\forD\bin\Debug\forD.exe
+Z:\C#\New project\forD\forD\forD\bin\Debug\forD.pdb
+Z:\C#\New project\forD\forD\forD\obj\Debug\forD.csprojResolveAssemblyReference.cache
+Z:\C#\New project\forD\forD\forD\obj\Debug\forD.MainForm.resources
+Z:\C#\New project\forD\forD\forD\obj\Debug\forD.Properties.Resources.resources
+Z:\C#\New project\forD\forD\forD\obj\Debug\forD.csproj.GenerateResource.Cache
+Z:\C#\New project\forD\forD\forD\obj\Debug\forD.exe
+Z:\C#\New project\forD\forD\forD\obj\Debug\forD.pdb
